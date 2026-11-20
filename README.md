@@ -1,7 +1,7 @@
 # Analisis Sentimen Ulasan Pariwisata Pulau Jawa Menggunakan IndoBERTweet
 **Studi Komparatif Strategi Fine-Tuning dan Pengaruh Emoji**
 
-**Peneliti:** Achmal Farhan Ashidiqy (202210370311298) — Program Studi Informatika
+**Peneliti:** Achmal Farhan Ashidiqy — Program Studi Informatika
 
 ---
 
